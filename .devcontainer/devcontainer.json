@@ -6,5 +6,12 @@
       "version": "latest",
       "installTinyTex": true
     }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "quarto.quarto"
+      ]
+    }
   }
 }
