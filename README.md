@@ -27,16 +27,17 @@ All of the chapters for the lab have already been published.
 
 ## Lab notebook usage
 
-9. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
-10. Right click on the file you want to edit and select "Open with" > "Quarto Visual Editor"
-11. Make at least one change to the file and save it (or press `Ctrl+S` on Windows/Linux or `Cmd+S` on Mac)
-12. Click the "Source Control" icon at the top of the left sidebar (or press `Ctrl+Shift+G` on Windows/Linux or `Cmd+Shift+G` on Mac)
-13. Click the "+" icon next to the file you edited to stage your changes or right click on the file and select "Stage Changes"
-14. In the text box above the Commit button, Enter a commit message that briefly describes the change(s) you made
-15. Click the right side of the commit button to access a dropdown menu and select "Commit & Push"
-16. In the terminal in the panel at the bottom of your Codespace, run the following commands
+9.In the terminal in the panel at the bottom of your Codespace, run the following commands
 
 - quarto install tinytex
 - quarto publish gh-pages
+
+10. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
+11. Right click on the file you want to edit and select "Open with" > "Quarto Visual Editor"
+12. Make at least one change to the file and save it (or press `Ctrl+S` on Windows/Linux or `Cmd+S` on Mac)
+13. Click the "Source Control" icon at the top of the left sidebar (or press `Ctrl+Shift+G` on Windows/Linux or `Cmd+Shift+G` on Mac)
+14. Click the "+" icon next to the file you edited to stage your changes or right click on the file and select "Stage Changes"
+15. In the text box above the Commit button, Enter a commit message that briefly describes the change(s) you made
+16. Click the right side of the commit button to access a dropdown menu and select "Commit & Push"
 
 If you get stuck on any of the steps above, press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on Mac and type the action you want to perform.
