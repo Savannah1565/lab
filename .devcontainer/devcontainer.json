@@ -7,17 +7,11 @@
       "installTinyTex": true
       }
   },
-  "hostRequirements": {
-    "cpus": 4
-  },
-  "waitFor": "onCreateCommand",
   "customizations": {
     "vscode": {
       "extensions": [
         "quarto.quarto"
       ]
     }
-  },
-
-  "forwardPorts": [8000]
+  }
 }
