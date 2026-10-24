@@ -17,20 +17,26 @@ All of the chapters for the lab have already been published.
 1. Go to <https://maptv.github.io/lab>
 2. Click the "Fork" button in the upper right corner of the page to create a copy of the repository (repo) in your own GitHub account
 3. Click the "Create fork" button
-4. Scroll to the bottom and click the "Open in GitHub Codespaces" button below
-5. Select your forked repo <USERNAME>/lab from the dropdown menu
-6. Click "Create codespace"
+4. In your fork, click "Actions" and then the big green button to enable GitHub Actions
+5. Click "Code" (to the left of "Actions")
+6. Scroll to the bottom and click the "Open in GitHub Codespaces" button below 
+7. Select your forked repo <USERNAME>/lab from the dropdown menu
+8. Click "Create codespace"
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/?quickstart=1&devcontainer_path=.devcontainer%2Fdevcontainer.json)
 
 ## Lab notebook usage
 
-7. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
-8. Right click on the file you want to edit and select "Open with" > "Quarto Visual Editor"
-9. Make at least one change to the file and save it (or press `Ctrl+S` on Windows/Linux or `Cmd+S` on Mac)
-10. Click the "Source Control" icon at the top of the left sidebar (or press `Ctrl+Shift+G` on Windows/Linux or `Cmd+Shift+G` on Mac)
-11. Click the "+" icon next to the file you edited to stage your changes or right click on the file and select "Stage Changes"
-12. In the text box above the Commit button, Enter a commit message that briefly describes the change(s) you made
-13. Click the right side of the commit button to access a dropdown menu and select "Commit & Push"
+9. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
+10. Right click on the file you want to edit and select "Open with" > "Quarto Visual Editor"
+11. Make at least one change to the file and save it (or press `Ctrl+S` on Windows/Linux or `Cmd+S` on Mac)
+12. Click the "Source Control" icon at the top of the left sidebar (or press `Ctrl+Shift+G` on Windows/Linux or `Cmd+Shift+G` on Mac)
+13. Click the "+" icon next to the file you edited to stage your changes or right click on the file and select "Stage Changes"
+14. In the text box above the Commit button, Enter a commit message that briefly describes the change(s) you made
+15. Click the right side of the commit button to access a dropdown menu and select "Commit & Push"
+16. In the terminal in the panel at the bottom of your Codespace, run the following commands
+
+- quarto install tinytex
+- quarto publish gh-pages
 
 If you get stuck on any of the steps above, press press `Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on Mac and type the action you want to perform.
