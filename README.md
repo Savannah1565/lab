@@ -27,9 +27,8 @@ All of the chapters for the lab have already been published.
 
 ## Lab notebook usage
 
-9.In the terminal in the panel at the bottom of your Codespace, run the following commands
+9. In the terminal in the panel at the bottom of your Codespace, run the following command:
 
-- quarto install tinytex
 - quarto publish gh-pages
 
 10. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
