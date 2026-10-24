@@ -12,7 +12,7 @@ All of the chapters for the lab have already been published.
 
    b.  Otherwise, use a pre-existing or newly-created Google account (<https://www.google.com/account/about>) or Apple account (<https://support.apple.com/apple-account>) to create a new GitHub account (<https://github.com/signup>)
 
-- Apple to GitHub in a single click: <https://github.com/sessions/social/apple/initiate?return_to=&disable_signup=false>
+- Apple account to GitHub account in a single click: <https://github.com/sessions/social/apple/initiate>
 
 ## Codespace setup
 
