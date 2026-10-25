@@ -31,7 +31,9 @@ All of the chapters for the lab have already been published.
 
 9. In the terminal in the panel at the bottom of your Codespace, run the following command:
 
-- quarto publish gh-pages
+```{bash}
+quarto publish gh-pages
+```
 
 10. Click on the file icon at the top of the left sidebar to open the file explorer (or press `Ctrl+Shift+E` on Windows/Linux or `Cmd+Shift+E` on Mac)
 11. Right click on the file you want to edit and select "Open with" > "Quarto Visual Editor"
