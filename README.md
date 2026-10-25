@@ -31,7 +31,7 @@ All of the chapters for the lab have already been published.
 
 9. In the terminal in the panel at the bottom of your Codespace, run the following command:
 
-```{bash}
+```bash
 quarto publish gh-pages
 ```
 
