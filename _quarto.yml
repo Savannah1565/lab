@@ -7,7 +7,6 @@ book:
     affiliations:
       - The Community College of Baltimore County
   date: "2026"
-  repo-url: https://github.com/maptv/lab
   downloads: [pdf, epub, docx]
   chapters:
     - index.qmd
