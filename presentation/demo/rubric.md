@@ -36,13 +36,13 @@ The digital lab notebook documents laboratory work corresponding to the chapters
 
 ## **Research Presentation Grading Rubric (75 points)**
 
-The presentation is an **individual delivery** based on anatomy and physiology research using peer‑reviewed or academic sources.
+The presentation is an **individual delivery** based on biology research using peer‑reviewed or academic sources.
 
 ### **Grading Criteria**
 
 **1. Scientific Content and Research Quality (25 points)**
 
-- Topic is appropriate to anatomy and physiology.
+- Topic is appropriate to biology.
 - Information is accurate and supported by reputable academic sources.
 - Concepts are explained clearly and correctly.
 
@@ -73,14 +73,14 @@ The presentation is an **individual delivery** based on anatomy and physiology r
 
 ## **Research Article Grading Rubric (125 points)**
 
-Each student submits an **individual anatomy and physiology research article** supported by peer‑reviewed or academic sources.
+Each student submits an **individual biology research article** supported by peer‑reviewed or academic sources.
 
 ### **Grading Criteria**
 
 **1. Scientific Accuracy and Depth (40 points)**
 
 - Content is scientifically correct and relevant.
-- Demonstrates understanding of anatomy and physiology concepts.
+- Demonstrates understanding of biological concepts.
 - Provides sufficient depth and explanation appropriate for college level.
 
 **2. Use and Integration of Sources (25 points)**
