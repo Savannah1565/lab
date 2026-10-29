@@ -2,6 +2,10 @@
 author: Martin Laptev
 image: images/pres.png
 css: styles.css
+resources:
+  - demo/index.html
+  - demo/index_files/**
+  - demo/chisq.ipynb
 ---
 
 # Quarto presentation {.unnumbered}
@@ -22,7 +26,17 @@ For best results, I suggest following the PDF export instructions in the [Reveal
 
 PDF files are ubiquitous and it is good to know that you can generate one with nothing more than a web browser whenever necessary, but HTML files can do many things that PDF files simply cannot.
 
-The HTML presentation below demonstrates all of the features described in its slides, many of which are not active in the PDF presentation beneath it.
+The example presentation below shows what is expected for the Research Presentation assignment. It covers chi-square (&chi;^2^) testing in genetics from Chapter 11 of the lab manual and models each part of the rubric:
+
+- **Scientific content and research quality:** accurate explanations supported by academic sources, including a human genetics example
+- **Organization and structure:** a clear introduction, body, and conclusion
+- **Visual aids:** labeled figures and tables, readable slides, and citations on the slides and in a references slide
+- **Oral delivery:** speaker notes on every slide (press <kbd>S</kbd> while viewing the HTML presentation to open the speaker view)
+- **Submission and accessibility:** a working web link to both an HTML and a PDF version
+
+The equations are written in LaTeX (e.g., `$\chi^2$`), and the R output and figures are embedded from a Jupyter notebook, [chisq.ipynb](demo/chisq.ipynb), that was run locally before the presentation was published. Because the notebook's output is saved in the notebook itself, the website can be built without installing R.
+
+The HTML presentation is shown first, followed by the PDF version.
 
 ::: {}
 ```{=html}

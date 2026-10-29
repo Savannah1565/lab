@@ -1,5 +1,7 @@
 project:
   type: book
+  # Books only render chapters, so render the revealjs deck separately
+  pre-render: quarto render presentation/demo/index.qmd
 book:
   title: Introduction to Human Biology Laboratory Workbook
   author:
