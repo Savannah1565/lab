@@ -1,7 +1,7 @@
 ---
 author: Martin Laptev
 image: images/pres.png
-css: styles.css
+css: slide-deck.css
 resources:
   - demo/index.html
   - demo/index_files/**

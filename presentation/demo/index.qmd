@@ -104,7 +104,7 @@ Critical values at $\alpha = 0.05$, computed in R with `qchisq()`. These match t
 Point out that students do not need to memorize these; R or a table provides them. Highlight 3.84 for df = 1 and 7.81 for df = 3, the two values used in the lab.
 :::
 
-## Example 1: monohybrid cross (3:1) {.smaller}
+## Example 1: monohybrid cross (3:1) {.smaller .larger-code}
 
 Data from the Chapter 11 worked example: 78 tall and 22 short plants.
 
@@ -131,7 +131,7 @@ Show that the hand calculation in the lab manual and R agree: 0.12 + 0.36 = 0.48
 Model the exact wording students should use in their own lab reports.
 :::
 
-## Example 2: dihybrid cross (9:3:3:1) {.smaller}
+## Example 2: dihybrid cross (9:3:3:1) {.smaller .larger-code}
 
 Data from the Chapter 11 worked example: 320 seeds.
 
@@ -156,7 +156,7 @@ The lab manual reports 8.90 because each term was rounded before adding. Roundin
 Compare R's result to the hand calculation in the lab manual and explain the small rounding difference. Good practice: keep full precision until the final step.
 :::
 
-## Observed vs. expected
+## Observed vs. expected {.observed-expected}
 
 {{< embed chisq.ipynb#obs-exp-plot >}}
 
@@ -186,7 +186,7 @@ The shaded area is the 5% rejection region for df = 3. Our statistic falls insid
 This applies the same test to human genetics. Here the expected values come from the population's own allele frequencies instead of a Punnett square.
 :::
 
-## Expected MN genotypes {.smaller}
+## Expected MN genotypes {.smaller .larger-code .mn-genotypes}
 
 {{< embed chisq.ipynb#hwe-data echo=true >}}
 
