@@ -9,7 +9,7 @@ resources:
   - demo/chisq.ipynb
 ---
 
-# Quarto presentation {.unnumbered}
+# **Quarto presentation** {.unnumbered}
 
 With [Quarto](https://quarto.org/#:~:text=An%20open%2Dsource%20scientific%20and%20technical%20publishing%20system), you can turn Quarto markdown (qmd) files into documents like articles or reports, websites such as blogs, and different kinds of presentations including sales pitches.
 
