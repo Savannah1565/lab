@@ -5,6 +5,7 @@ css: styles.css
 resources:
   - demo/index.html
   - demo/index_files/**
+  - demo/styles.css
   - demo/chisq.ipynb
 ---
 

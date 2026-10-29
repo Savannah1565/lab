@@ -6,6 +6,7 @@ institute: "BIOL 110 · The Community College of Baltimore County"
 format:
   revealjs:
     slide-number: true
+    controls: true
     preview-links: auto
     css: styles.css
     include-in-header: pdf-export.html
@@ -91,7 +92,9 @@ Walk through each piece of the formula. Squaring removes negative signs; dividin
 
 If $\chi^2$ is greater than the critical value, we **reject** $H_0$.
 
+::: {.smallfont}
 {{< embed chisq.ipynb#crit-values echo=true >}}
+:::
 
 ::: aside
 Critical values at $\alpha = 0.05$, computed in R with `qchisq()`. These match the table in Chapter 11 of the lab manual.
