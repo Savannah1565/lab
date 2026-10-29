@@ -2,13 +2,14 @@
 title: "Do the Data Fit Mendel?"
 subtitle: "Using the &chi;^2^ test to evaluate genetic crosses"
 author: "Example Student"
-institute: "BIOL 109 · The Community College of Baltimore County"
+institute: "BIOL 110 · The Community College of Baltimore County"
 format:
   revealjs:
     slide-number: true
     preview-links: auto
     css: styles.css
-    footer: "&chi;^2^ testing in genetics · BIOL 109 example presentation"
+    include-in-header: pdf-export.html
+    footer: "&chi;^2^ testing in genetics · BIOL 110 example presentation"
 resources:
   - chisq.ipynb
 ---
@@ -86,7 +87,7 @@ Degrees of freedom: $df = k - 1$
 Walk through each piece of the formula. Squaring removes negative signs; dividing by E scales each difference relative to what we expected. Introduced by Pearson (1900).
 :::
 
-## Critical values
+## Critical values {.critical-values}
 
 If $\chi^2$ is greater than the critical value, we **reject** $H_0$.
 

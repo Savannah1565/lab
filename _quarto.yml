@@ -9,6 +9,9 @@ book:
     affiliations:
       - The Community College of Baltimore County
   date: "2026"
+  # GitHub Actions overrides repo-url so forks link to their own repo (see publish.yml)
+  repo-url: https://github.com/maptv/lab
+  repo-actions: [edit, source]
   downloads: [pdf, epub, docx]
   chapters:
     - index.qmd
